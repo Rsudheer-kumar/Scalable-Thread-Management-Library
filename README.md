@@ -146,11 +146,23 @@ pool.waitAll();
 A demo UI (in HTML/JS) allows you to visualize:
 <li>Number of worker threads</li>
 <li>Number of tasks</li>
-
-# screenshort
-
-
-
 <li>Task duration</li>
 <li>How tasks are scheduled per worker</li>
 <li>(This demo simulates behavior — browser cannot create OS threads.)</li>
+
+### screenshort
+
+Rsudheer-kumar
+Scalable-Thread-Management-Library
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rsudheer-kumar/Scalable-Thread-Management-Library/main/Code/Photo/Screenshot 2025-12-11 154526.png" width="860" style="margin-right:20px;">
+      <img src="https://raw.githubusercontent.com/Rsudheer-kumar/Scalable-Thread-Management-Library/main/Code/Photo/Screenshot 2025-12-11 154535.png" width="860" style="margin-right:20px;">
+      <img src="https://raw.githubusercontent.com/Rsudheer-kumar/Scalable-Thread-Management-Library/main/Code/Photo/Screenshot 2025-12-11 154542.png" width="860" style="margin-right:20px;">
+      <img src="https://raw.githubusercontent.com/Rsudheer-kumar/Scalable-Thread-Management-Library/main/Code/Photo/Screenshot 2025-12-11 154553.png" width="860" style="margin-right:20px;">
+      <img src="https://raw.githubusercontent.com/Rsudheer-kumar/Scalable-Thread-Management-Library/main/Code/Photo/Screenshot 2025-12-11 154601.png" width="860" style="margin-right:20px;">
+      <img src="https://raw.githubusercontent.com/Rsudheer-kumar/Scalable-Thread-Management-Library/main/Code/Photo/Screenshot 2025-12-11 154607.png" width="860" style="margin-right:20px;">
+      <img src="https://raw.githubusercontent.com/Rsudheer-kumar/Scalable-Thread-Management-Library/main/Code/Photo/Screenshot 2025-12-11 154623.png" width="860" style="margin-right:20px;">
+      <img src="https://raw.githubusercontent.com/Rsudheer-kumar/Scalable-Thread-Management-Library/main/Code/Photo/Screenshot 2025-12-11 154631.png" width="860" style="margin-right:20px;">
+      <img src="https://raw.githubusercontent.com/Rsudheer-kumar/Scalable-Thread-Management-Library/main/Code/Photo/Screenshot 2025-12-11 154638.png" width="860" style="margin-right:20px;">
+    
+</p>
